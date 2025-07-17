@@ -1,0 +1,19 @@
+name: Build HTML and Docker Image
+
+on:
+  push:
+    paths:
+      - '**.md'
+      - '.github/workflows/pandoc-docker.yml'
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+      - name: Build Docker image
+        run: docker build -t vaio-html .
+      - name: Compose up (devcontainer)
+        run: docker compose -f .devcontainer/docker-compose.yml up -d

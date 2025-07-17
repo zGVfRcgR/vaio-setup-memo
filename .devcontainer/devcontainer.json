@@ -1,0 +1,13 @@
+{
+  "name": "vaio-html-devcontainer",
+  "dockerComposeFile": "docker-compose.yml",
+  "service": "vaio-html",
+  "workspaceFolder": "/workspace",
+  "forwardPorts": [8080],
+  "customizations": {
+    "vscode": {
+      "settings": {},
+      "extensions": []
+    }
+  }
+}
