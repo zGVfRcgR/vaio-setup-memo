@@ -17,3 +17,10 @@ jobs:
         run: docker build -t vaio-html .
       - name: Compose up (devcontainer)
         run: docker compose -f .devcontainer/docker-compose.yml up -d
+      - name: Check HTML with curl
+        run: |
+          sleep 5
+          curl -sSf http://localhost:8080 | grep '<html'
+      - name: Compose down
+        if: always()
+        run: docker compose -f .devcontainer/docker-compose.yml down
