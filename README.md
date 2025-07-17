@@ -42,6 +42,7 @@
     - Windows Updateを実施
     - Windows HelloでPINを有効化
 2. 必要なドライバ・アップデートの適用
+    - PIXUS iP7230 Printer Driver Ver. 1.01のインストール
 3. セキュリティソフトの導入（Windows Defenderを利用）
 4. 必要なアプリケーションのインストール
     - Google Chromeのインストール
