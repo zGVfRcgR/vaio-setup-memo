@@ -1,6 +1,7 @@
-version: '3.8'
 services:
   vaio-html:
-    build: ..
+    build:
+      context: ..
+      dockerfile: .devcontainer/Dockerfile
     ports:
       - "8080:80"
