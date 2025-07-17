@@ -12,9 +12,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v3
-      - name: Build Docker image
-        run: docker build -t vaio-html .
+        uses: actions/checkout@v4
       - name: Compose up (devcontainer)
         run: docker compose -f .devcontainer/docker-compose.yml up -d
       - name: Check HTML with curl
