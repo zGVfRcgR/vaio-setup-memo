@@ -11,9 +11,9 @@
 
 ## 購入情報
 - 購入先: Qualit（横川レンタリース株式会社）
-- 購入時期: 2020年頃
+| デバイス ID | （マスキング済み） |
 - 金額: 25,300円（税込）
-- 商品名: VAIO Pro PG (Win11 x64) 中古
+| プロダクト ID | （マスキング済み） |
 - 主な仕様:
     - CPU: Core i5-8250U 1.6GHz
     - メモリ: 8GB
@@ -35,14 +35,75 @@
 | ペンとタッチ | このディスプレイでは、ペン入力とタッチ入力は利用できません |
 | UEFI | VAIO System Firmware 1045A00 |
 | ストレージ | SAMSUNG&Prod_MZNLN256HAJQ-000　256GB |
-| バッテリー | 劣化度・充電回数（例: 劣化少, 充電回数: 不明） |
+| WindowsInstallDateFromRegistry | （マスキング済み） |
 | ネットワーク | Wi-Fi/Bluetoothチップ型番・ドライバ（例: Intel Wireless-AC 8265） |
-| 拡張スロット | メモリ増設可否 |
+| WindowsProductId | （マスキング済み） |
 | オーディオ | Realtek High Definition Audio（例） |
 | USB/HDMI端子 | USB3.0 x3, HDMI x1（例） |
 | TPM | あり |
 | 冷却機構 | ファン正常・埃なし（例） |
 | 付属品 | ACアダプタ、リカバリメディア等（例） |
+
+## 詳細システム情報
+| 項目 | 内容 |
+| --- | --- |
+| WindowsBuildLabEx | 26100.1.amd64fre.ge_release.240331-1435 |
+| WindowsCurrentVersion | 6.3 |
+| WindowsEditionId | Professional |
+| WindowsInstallationType | Client |
+| WindowsInstallDateFromRegistry | 2025/07/17 12:33:06 |
+| BiosSeralNumber | （マスキング済み） |
+| WindowsProductName | Windows 10 Pro |
+| WindowsSystemRoot | C:\WINDOWS |
+| WindowsVersion | 2009 |
+| OSDisplayVersion | 24H2 |
+| BiosBIOSVersion | VAIO - 20240826, R0490K9, Phoenix Technologies Ltd. - 12345678 |
+| BiosCaption | R0490K9 |
+| BiosDescription | R0490K9 |
+| BiosEmbeddedControllerMajorVersion | 4 |
+| BiosEmbeddedControllerMinorVersion | 90 |
+| BiosFirmwareType | Uefi |
+| BiosManufacturer | Phoenix Technologies Ltd. |
+| BiosName | R0490K9 |
+| CsName | （マスキング済み） |
+| BiosSeralNumber | 4529122 |
+| BiosSMBIOSBIOSVersion | R0490K9 |
+| BiosSMBIOSMajorVersion | 3 |
+| BiosSMBIOSMinorVersion | 0 |
+| BiosSMBIOSPresent | True |
+| BiosSoftwareElementState | Running |
+| BiosStatus | OK |
+| BiosSystemBiosMajorVersion | 4 |
+| BiosSystemBiosMinorVersion | 90 |
+| BiosVersion | VAIO - 20240826 |
+| CsManufacturer | VAIO Corporation |
+| CsModel | VJPG11C11N |
+| CsName | ヌーベルバーグ |
+| CsNumberOfLogicalProcessors | 8 |
+| CsNumberOfProcessors | 1 |
+| CsProcessors | Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz |
+| OsSerialNumber | （マスキング済み） |
+| CsSystemSKUNumber | COM |
+| CsSystemType | x64-based PC |
+| OsName | Microsoft Windows 11 Pro |
+| OsType | WINNT |
+| OsOperatingSystemSKU | 48 |
+| OsVersion | 10.0.26100 |
+| OsBuildNumber | 26100 |
+| OsInstallDate | 2025/07/17 21:33:06 |
+| OsManufacturer | Microsoft Corporation |
+| OsArchitecture | 64 ビット |
+| OsLanguage | ja-JP |
+| OsSerialNumber | 00330-80000-00000-AA832 |
+| OsStatus | OK |
+| KeyboardLayout | ja-JP |
+| TimeZone | (UTC+09:00) 大阪、札幌、東京 |
+| PowerPlatformRole | Mobile |
+| HyperVisorPresent | True |
+| DeviceGuardSecurityServicesConfigured | HypervisorEnforcedCodeIntegrity |
+| DeviceGuardSecurityServicesRunning | HypervisorEnforcedCodeIntegrity |
+| DeviceGuardCodeIntegrityPolicyEnforcementStatus | EnforcementMode |
+| DeviceGuardUserModeCodeIntegrityPolicyEnforcementStatus | AuditMode |
 
 ## OS情報
 | 項目 | 内容 |
