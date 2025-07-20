@@ -25,6 +25,7 @@
     - 訳あり品
 
 ## デバイス情報
+
 | 項目 | 内容 |
 | --- | --- |
 | デバイス名 | XXXXXX |
@@ -46,6 +47,7 @@
 | 付属品 | ACアダプタ、リカバリメディア等（例） |
 
 ## 詳細システム情報
+
 | 項目 | 内容 |
 | --- | --- |
 | WindowsBuildLabEx | 26100.1.amd64fre.ge_release.240331-1435 |
@@ -107,6 +109,7 @@
 | DeviceGuardUserModeCodeIntegrityPolicyEnforcementStatus | AuditMode |
 
 ## OS情報
+
 | 項目 | 内容 |
 | --- | --- |
 | エディション | Windows 11 Pro |
