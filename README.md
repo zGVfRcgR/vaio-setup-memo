@@ -60,14 +60,14 @@
 | WindowsSystemRoot | C:\WINDOWS |
 | WindowsVersion | 2009 |
 | OSDisplayVersion | 24H2 |
-| BiosBIOSVersion | VAIO - 20240826, R0490K9, Phoenix Technologies Ltd. - 12345678 |
-| BiosCaption | R0490K9 |
-| BiosDescription | R0490K9 |
+| BiosBIOSVersion | VAIO - 20250507, R0500K9, Phoenix Technologies Ltd. - 12345678 |
+| BiosCaption | R0500K9 |
+| BiosDescription | R0500K9 |
 | BiosEmbeddedControllerMajorVersion | 4 |
 | BiosEmbeddedControllerMinorVersion | 90 |
 | BiosFirmwareType | Uefi |
 | BiosManufacturer | Phoenix Technologies Ltd. |
-| BiosName | R0490K9 |
+| BiosName | R0500K9 |
 | CsName | （マスキング済み） |
 | BiosSeralNumber | 4529122 |
 | BiosSMBIOSBIOSVersion | R0490K9 |
@@ -78,7 +78,7 @@
 | BiosStatus | OK |
 | BiosSystemBiosMajorVersion | 4 |
 | BiosSystemBiosMinorVersion | 90 |
-| BiosVersion | VAIO - 20240826 |
+| BiosVersion | VAIO - 20250507 |
 | CsManufacturer | VAIO Corporation |
 | CsModel | VJPG11C11N |
 | CsName | ヌーベルバーグ |
@@ -126,6 +126,7 @@
     - Windows HelloでPINを有効化
 2. 必要なドライバ・アップデートの適用
     - PIXUS iP7230 Printer Driver Ver. 1.01のインストール
+    - [VAIO® Pro PG（VJPG11*シリーズ）](https://support.vaio.com/products/VJPG11/update.html)のアップデート
 3. セキュリティソフトの導入（Windows Defenderを利用）
 4. 必要なアプリケーションのインストール
     - Google Chromeのインストール
